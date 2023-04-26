@@ -13,8 +13,3 @@ I'm learning Unit and integration testing, CI/CD, microsservices, clean architec
 
 ## Tech Stack
 Javascript | Reactjs | Nodejs | Nestjs | TypeScript | Nextjs | Prisma | Sequelize | Docker | Kubernetes | ChakraUi | AntDesign | Angular | Python | Postgres
-
-## GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=emersonfreitas&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emersonfreitas&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonfreitas&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
