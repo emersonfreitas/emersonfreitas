@@ -1,9 +1,9 @@
 # About Me :
 I'm a dev Fullstack from Brazil
 
-I’m working as a Systems Analyst and contributing to frontend and backend for building web applications.
+I’m working as a Fullstack Developer and contributing to frontend and backend for building web applications.
 
-I'm learning Unit and integration testing, CI/CD, microsservices, clean architecture, Python and English.
+I'm learning Python and English.
 
 
 ## Socials
